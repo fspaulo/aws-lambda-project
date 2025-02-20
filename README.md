@@ -6,6 +6,9 @@ and pointing out how the Node language can be an alternative to the cold start l
 
 Project includes AWS lambda codes developed in Node and Java
 
+![Logo](./assets/chat1.png)
+
+
 ### 📋 Requirements
 
 The following items should be installed in your system:
